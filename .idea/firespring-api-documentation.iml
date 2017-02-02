@@ -7,10 +7,10 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/API_TEST_PHP/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/PHP/composer.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/API_TEST_PHP/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/PHP/composer.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
