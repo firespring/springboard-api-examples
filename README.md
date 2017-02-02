@@ -22,7 +22,7 @@ Keep in mind, if you change the name of example.js you must update the index.htm
 
 Once the project is copied on a local environment, right click on the index.html and open with your favorite browser
 
-Go into your springboard account, and go to the Account Management. 
+Go into your springboard account, and go to the Account Management tab. 
 
 1. Click `API Keys`
 
@@ -55,7 +55,7 @@ This will install all of our dependencies.
 
 * This is an executable PHP file
 
-Go into your springboard account, and go to the Account Management. 
+Go into your springboard account, and go to the Account Management tab. 
 
 1. Click `API Keys`
 
