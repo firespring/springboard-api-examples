@@ -1,6 +1,6 @@
 #!/usr/bin/env php
 <?php
-
+// #!/usr/bin/env php allows the php files to be executed from the terminal, CAN BE REMOVED
 require __DIR__ . '/vendor/autoload.php';
 
 use GuzzleHttp\Client;
@@ -19,6 +19,7 @@ $options = [
 ];
 
 try {
+	// Handle your successful call
 	$response = $client->get($url, $options);
 	$data = json_decode($response->getBody()->getContents(), TRUE);
 	$dataArray = $data['data'][0];
@@ -27,6 +28,7 @@ try {
 	echo 'From: ' . $dataArray['fromName'] . "\n";
 
 } catch (ClientException $e) {
+	// Handle your unsuccessful call
 	var_dump($e->getResponse()->getBody()->getContents());
 	die;
 }
