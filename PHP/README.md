@@ -20,7 +20,7 @@ git@github.com:firespring/springboard-api-examples.git
 * `MESSAGE_ID`
 * `ORDER_ID`
 
-<a href="https://getcomposer.org/" target="_blank">Install Composer</a>
+[Install Composer](https://getcomposer.org/) 
 
 Run composer, This will install all of our dependencies.
 
