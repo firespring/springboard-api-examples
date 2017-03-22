@@ -10,7 +10,7 @@ Clone the project:
 git@github.com:firespring/springboard-api-examples.git
 ```
 
-###Necessary To Use
+###Necessary to use
 
 * `WEBSITE_ID` You can find this in the ID column in the Springboard's website-selector
 * `API_KEY`
@@ -29,7 +29,7 @@ Go into your springboard account, and go to the Account Management tab.
 
 1. Click `API Keys`
 
-2. Click Add API Key (Be sure not to close the window before having stored your API Key somewhere.
+2. Click add API Key (be sure not to close the window before having stored your API Key somewhere.
 This will be the last time you will be able to access this full key.)
 
 3. Add the API Key to `const API_KEY`
