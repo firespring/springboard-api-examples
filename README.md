@@ -1,6 +1,6 @@
-#Firespring API Docs
+# Firespring API Docs
 
-###Installation
+### Installation
 
 Clone the project:
 ```
